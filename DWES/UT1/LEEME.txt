@@ -1,0 +1,4 @@
+Esta carpeta contien:
+- Carpeta gestionEmailsUT1: contien n proyecto PHP funcional de la actividad propuesta.
+- Fichero gestionemails.sql: contiene las instrucciones SQL para la creación de la tabla que usa la APP PHP.
+- Documento word: Contien las preguntas y respuestas propuestas en la actividad.
